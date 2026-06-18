@@ -1,5 +1,6 @@
 # SENTINEL-IQ
 #Prototype Status: Under active development for the Bank of Baroda Hackathon. This repository contains the project architecture, documentation, and implementation progress. A live demo and deployment will be added before the final evaluation.
+--------------------------------------------------------------------------------------------------------------------------------------
 Problem Statement
 
 The challenge aims to design a privacy-first, risk-based Identity Trust framework that continuously validates customer and enterprise identities across digital channels. The solution should be capable of detecting high-risk events such as anomalous behavior, new device usage, suspicious onboarding or account recovery attempts, and misuse of privileged access. It should trigger real-time verification only when risk levels are elevated.
