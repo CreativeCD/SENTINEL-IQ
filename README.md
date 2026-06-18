@@ -8,6 +8,8 @@ We strongly believe that collaboration with your esteemed institution will bring
 
 
 Understanding of problem (In our own words)
+
+
 *
 Today, most banking applications verify a user's identity only during login. Once a user is authenticated, the session is generally trusted until they log out. This creates a major security gap because if someone hijacks an active session, gains access to a trusted device, or performs suspicious activities after login, traditional authentication mechanisms may not detect it.
 
